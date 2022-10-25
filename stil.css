@@ -1,0 +1,88 @@
+body{background-color: Orange;
+
+}
+
+#naslov1{
+    background-color: SandyBrown;
+    margin-top: 30px;
+    color: lightyellow;
+    text-align: center;
+    font-size: 35px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h1{color: black;
+}
+
+#lista0{
+    list-style-type: none;
+    width: 900px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+li{color: black;
+}
+
+#lista0 li{
+    float: left;
+    background-color: peru;
+    color: black;
+    padding: 15px 25px;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+
+#karijera{
+    text-align: left;
+    background-color: Peru;
+    color: black;
+    padding: 10px;
+    margin-top: 100px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#kontroverzije{
+    text-align: left;
+    background-color: Peru;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: black;
+    padding: 10px;
+    margin top: 30px;
+    margin :left
+    
+}
+
+#filmovi{
+    text-align: left;
+    background-color: Peru ;
+    color: black;
+    padding: 10px;
+    margin-top: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+id{color: black
+}
+
+#albumi{
+    color: red;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#lista1{
+    background-color: SandyBrown;
+    color:lightgoldenrodyellow;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#aplikacije{
+    color: red;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#lista2{
+    background-color: SandyBrown;
+    color:lightgoldenrodyellow ;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
